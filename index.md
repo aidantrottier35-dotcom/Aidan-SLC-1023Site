@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Name Aidan Trottier ExampleStudent number 12345678
 
 [Link to another page](./another-page.html).
 
