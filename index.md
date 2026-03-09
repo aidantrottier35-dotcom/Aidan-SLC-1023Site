@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Name Aidan Trottier ExampleStudent number 12345678
+Name Aidan Trottier Example Student number 12345678
 
 [Link to another page](./another-page.html).
 
